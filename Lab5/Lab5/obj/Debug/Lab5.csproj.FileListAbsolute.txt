@@ -1,0 +1,9 @@
+C:\Users\Kuba\source\repos\GRAFIKA KOMPUTEROWA\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\Kuba\source\repos\GRAFIKA KOMPUTEROWA\Lab5\Lab5\bin\Debug\Lab5.exe
+C:\Users\Kuba\source\repos\GRAFIKA KOMPUTEROWA\Lab5\Lab5\bin\Debug\Lab5.pdb
+C:\Users\Kuba\source\repos\GRAFIKA KOMPUTEROWA\Lab5\Lab5\obj\Debug\Lab5.csprojResolveAssemblyReference.cache
+C:\Users\Kuba\source\repos\GRAFIKA KOMPUTEROWA\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+C:\Users\Kuba\source\repos\GRAFIKA KOMPUTEROWA\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
+C:\Users\Kuba\source\repos\GRAFIKA KOMPUTEROWA\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\source\repos\GRAFIKA KOMPUTEROWA\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Users\Kuba\source\repos\GRAFIKA KOMPUTEROWA\Lab5\Lab5\obj\Debug\Lab5.pdb

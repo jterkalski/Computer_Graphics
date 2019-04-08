@@ -1,0 +1,9 @@
+C:\Users\Kuba\source\repos\GRAFIKA KOMPUTEROWA\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Kuba\source\repos\GRAFIKA KOMPUTEROWA\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\Kuba\source\repos\GRAFIKA KOMPUTEROWA\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Kuba\source\repos\GRAFIKA KOMPUTEROWA\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+C:\Users\Kuba\source\repos\GRAFIKA KOMPUTEROWA\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\Kuba\source\repos\GRAFIKA KOMPUTEROWA\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+C:\Users\Kuba\source\repos\GRAFIKA KOMPUTEROWA\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\source\repos\GRAFIKA KOMPUTEROWA\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\Kuba\source\repos\GRAFIKA KOMPUTEROWA\Lab4\Lab4\obj\Debug\Lab4.pdb
