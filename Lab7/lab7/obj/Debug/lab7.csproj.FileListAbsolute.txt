@@ -1,0 +1,10 @@
+C:\Users\Kuba\source\repos\GRAFIKA KOMPUTEROWA\lab7\lab7\bin\Debug\lab7.exe.config
+C:\Users\Kuba\source\repos\GRAFIKA KOMPUTEROWA\lab7\lab7\bin\Debug\lab7.exe
+C:\Users\Kuba\source\repos\GRAFIKA KOMPUTEROWA\lab7\lab7\bin\Debug\lab7.pdb
+C:\Users\Kuba\source\repos\GRAFIKA KOMPUTEROWA\lab7\lab7\obj\Debug\lab7.csprojResolveAssemblyReference.cache
+C:\Users\Kuba\source\repos\GRAFIKA KOMPUTEROWA\lab7\lab7\obj\Debug\lab7.Form1.resources
+C:\Users\Kuba\source\repos\GRAFIKA KOMPUTEROWA\lab7\lab7\obj\Debug\lab7.Properties.Resources.resources
+C:\Users\Kuba\source\repos\GRAFIKA KOMPUTEROWA\lab7\lab7\obj\Debug\lab7.csproj.GenerateResource.cache
+C:\Users\Kuba\source\repos\GRAFIKA KOMPUTEROWA\lab7\lab7\obj\Debug\lab7.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\source\repos\GRAFIKA KOMPUTEROWA\lab7\lab7\obj\Debug\lab7.exe
+C:\Users\Kuba\source\repos\GRAFIKA KOMPUTEROWA\lab7\lab7\obj\Debug\lab7.pdb
