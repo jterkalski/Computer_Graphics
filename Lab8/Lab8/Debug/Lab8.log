@@ -1,0 +1,19 @@
+﻿  Lab8.cpp
+c:\users\kuba\source\repos\grafika komputerowa\lab8\lab8\lab8.cpp(109): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\kuba\source\repos\grafika komputerowa\lab8\lab8\lab8.cpp(116): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kuba\source\repos\grafika komputerowa\lab8\lab8\lab8.cpp(117): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kuba\source\repos\grafika komputerowa\lab8\lab8\lab8.cpp(130): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kuba\source\repos\grafika komputerowa\lab8\lab8\lab8.cpp(136): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kuba\source\repos\grafika komputerowa\lab8\lab8\lab8.cpp(137): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kuba\source\repos\grafika komputerowa\lab8\lab8\lab8.cpp(148): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\kuba\source\repos\grafika komputerowa\lab8\lab8\lab8.cpp(153): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kuba\source\repos\grafika komputerowa\lab8\lab8\lab8.cpp(154): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kuba\source\repos\grafika komputerowa\lab8\lab8\lab8.cpp(167): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kuba\source\repos\grafika komputerowa\lab8\lab8\lab8.cpp(174): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kuba\source\repos\grafika komputerowa\lab8\lab8\lab8.cpp(175): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kuba\source\repos\grafika komputerowa\lab8\lab8\lab8.cpp(191): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kuba\source\repos\grafika komputerowa\lab8\lab8\lab8.cpp(192): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kuba\source\repos\grafika komputerowa\lab8\lab8\lab8.cpp(208): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kuba\source\repos\grafika komputerowa\lab8\lab8\lab8.cpp(209): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kuba\source\repos\grafika komputerowa\lab8\lab8\lab8.cpp(321): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Lab8.vcxproj -> C:\Users\Kuba\source\repos\GRAFIKA KOMPUTEROWA\Lab8\Debug\Lab8.exe
